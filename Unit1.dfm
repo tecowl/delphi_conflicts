@@ -61,9 +61,9 @@ object Form1: TForm1
         Height = 21
         TabOrder = 1
         Items.Strings = (
-          'foo'
-          'bar'
-          'baz')
+          'FOO'
+          'BAR'
+          'BAZ')
       end
     end
   end
