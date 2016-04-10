@@ -37,7 +37,7 @@ object Form1: TForm1
       ParentFont = False
       TabOrder = 0
       Text = 'Edit1 branch1+2'
-      OnKeyPress = AllEditKeyPress
+      OnKeyPress = Edit1KeyPress
     end
     object Button1: TButton
       Left = 16
