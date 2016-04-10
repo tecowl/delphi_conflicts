@@ -60,6 +60,7 @@ object Form1: TForm1
         Width = 282
         Height = 21
         TabOrder = 1
+        Text = '('#36984#25246#12375#12390#12367#12384#12373#12356')'
         Items.Strings = (
           'FOO'
           'BAR'
