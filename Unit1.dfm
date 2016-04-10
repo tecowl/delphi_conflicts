@@ -28,7 +28,7 @@ object Form1: TForm1
       Top = 16
       Width = 250
       Height = 21
-      Anchors = [akBottom, akRight]
+      Anchors = [akRight, akBottom]
       TabOrder = 0
       Text = 'Edit1 branch1+2'
     end
