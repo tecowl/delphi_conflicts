@@ -27,8 +27,14 @@ object Form1: TForm1
       Left = 16
       Top = 16
       Width = 250
-      Height = 21
+      Height = 22
       Anchors = [akRight, akBottom]
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -12
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
       TabOrder = 0
       Text = 'Edit1 branch1+2'
     end
