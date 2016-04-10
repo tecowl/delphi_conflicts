@@ -12,7 +12,6 @@ type
     Button1: TButton;
     Panel2: TPanel;
     Edit1: TEdit;
-    ComboBox1: TComboBox;
     procedure AllEditKeyPress(Sender: TObject; var Key: Char);
     procedure Edit1KeyPress(Sender: TObject; var Key: Char);
   private
