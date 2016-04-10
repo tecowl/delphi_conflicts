@@ -51,7 +51,7 @@ object Form1: TForm1
         Font.Style = [fsBold]
         ParentFont = False
         TabOrder = 0
-        Text = #20837#21147#12501#12451#12540#12523#12489
+        Text = #20837#21147#38917#30446
         OnKeyPress = Edit1KeyPress
       end
     end
