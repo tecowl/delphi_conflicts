@@ -57,7 +57,7 @@ object Form1: TForm1
       object ComboBox1: TComboBox
         Left = 7
         Top = 8
-        Width = 145
+        Width = 282
         Height = 21
         TabOrder = 1
         Items.Strings = (
