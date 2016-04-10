@@ -36,7 +36,7 @@ object Form1: TForm1
       Font.Style = [fsBold]
       ParentFont = False
       TabOrder = 0
-      Text = 'Edit1 branch1+2'
+      Text = #20837#21147#38917#30446
       OnKeyPress = Edit1KeyPress
     end
     object Button1: TButton
