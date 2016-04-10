@@ -11,6 +11,7 @@ type
     Panel1: TPanel;
     Edit1: TEdit;
     Button1: TButton;
+    procedure AllEditKeyPress(Sender: TObject; var Key: Char);
     procedure Edit1KeyPress(Sender: TObject; var Key: Char);
   private
     { Private êÈåæ }
@@ -25,9 +26,15 @@ implementation
 
 {$R *.dfm}
 
+procedure TForm1.AllEditKeyPress(Sender: TObject; var Key: Char);
+begin
+  // All Edit Key Press Event Handler
+end
+
 procedure TForm1.Edit1KeyPress(Sender: TObject; var Key: Char);
 begin
   // Edit1 KeyPress Event Handler
+  AllEditKeyPress(Sender, key);
 end;
 
 end.
