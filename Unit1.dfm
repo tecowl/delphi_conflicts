@@ -23,7 +23,7 @@ object Form1: TForm1
     object Edit1: TEdit
       Left = 16
       Top = 16
-      Width = 300
+      Width = 250
       Height = 21
       TabOrder = 0
       Text = 'Edit1 branch1+2'
