@@ -26,7 +26,7 @@ object Form1: TForm1
       Width = 121
       Height = 21
       TabOrder = 0
-      Text = 'Edit1 on branch2'
+      Text = 'Edit1 branch1+2'
     end
     object Button1: TButton
       Left = 16
