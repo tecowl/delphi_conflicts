@@ -54,6 +54,17 @@ object Form1: TForm1
         Text = #20837#21147#38917#30446
         OnKeyPress = Edit1KeyPress
       end
+      object ComboBox1: TComboBox
+        Left = 7
+        Top = 8
+        Width = 145
+        Height = 21
+        TabOrder = 1
+        Items.Strings = (
+          'FOO'
+          'BAR'
+          'BAZ')
+      end
     end
   end
 end
