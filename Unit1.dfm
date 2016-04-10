@@ -33,7 +33,7 @@ object Form1: TForm1
       Font.Color = clWindowText
       Font.Height = -12
       Font.Name = 'Tahoma'
-      Font.Style = []
+      Font.Style = [fsBold]
       ParentFont = False
       TabOrder = 0
       Text = 'Edit1 branch1+2'
