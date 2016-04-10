@@ -9,8 +9,9 @@ uses
 type
   TForm1 = class(TForm)
     Panel1: TPanel;
-    Edit1: TEdit;
     Button1: TButton;
+    Panel2: TPanel;
+    Edit1: TEdit;
     procedure AllEditKeyPress(Sender: TObject; var Key: Char);
     procedure Edit1KeyPress(Sender: TObject; var Key: Char);
   private
