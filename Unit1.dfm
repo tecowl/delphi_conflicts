@@ -20,11 +20,15 @@ object Form1: TForm1
     Height = 89
     Caption = 'Panel1'
     TabOrder = 0
+    DesignSize = (
+      329
+      89)
     object Edit1: TEdit
       Left = 16
       Top = 16
       Width = 250
       Height = 21
+      Anchors = [akLeft, akTop, akRight]
       TabOrder = 0
       Text = 'Edit1 branch1+2'
     end
